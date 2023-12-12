@@ -8,7 +8,7 @@
 
 <nav class="container mt-8 flex justify-between">
 	<a class="unstyled text-xl" href="/">
-		<b>🔥 Blog</b>
+		<b>🔥 Super Duper Blog!!!!</b>
 	</a>
 
 	<div class="flex items-center gap-4">
